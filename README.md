@@ -240,3 +240,6 @@ This repository serves as the official landing page for BattleForge. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of BattleForge today!**
+
+---
+**Last updated:** 2026-09-07 16:22:53 UTC
