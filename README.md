@@ -242,4 +242,4 @@ This repository serves as the official landing page for BattleForge. The softwar
 **Get the most recent version of BattleForge today!**
 
 ---
-**Last updated:** 2026-10-26 23:43:34 UTC
+**Last updated:** 2026-10-27 04:47:49 UTC
